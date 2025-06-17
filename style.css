@@ -100,7 +100,7 @@ a {
 }
 
 .results__item {
-    background: #fff;
+    background: #5974a3;
     border-radius: 2px;
     display: inline-block;
     height: 275px;
@@ -120,8 +120,10 @@ a {
     font-family: 'Spectral SC', serif;
     font-weight: 700;
     margin: 20px;
+    color:white;
 }
 .results__item__intro {
     margin: 0 20px;
     padding-bottom: 20px;
+    color:white;
 }
